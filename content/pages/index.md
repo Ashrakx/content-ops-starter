@@ -16,7 +16,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Kawoosh.ca
       color: text-dark
       styles:
         self:
