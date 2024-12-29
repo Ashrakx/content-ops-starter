@@ -2,16 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: CarouselSection
-    subtitle: This is a subtitle
-    items: []
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
