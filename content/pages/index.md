@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Kawoosh.ca
 slug: /
 sections:
   - type: FeaturedItemsSection
