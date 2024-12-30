@@ -59,6 +59,9 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-dark-fg-light
+        styles:
+          self:
+            borderRadius: x-small
       - type: FeaturedItem
         title: ''
         subtitle: ''
