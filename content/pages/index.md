@@ -28,7 +28,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/1000000599.jpg
-          altText: Faux Fur Throw
+          altText: Kawoosh world
           elementId: ''
           styles:
             self:
