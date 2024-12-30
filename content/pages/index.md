@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Kawoosh.ca
+      text: ''
       color: text-light
       styles:
         self:
