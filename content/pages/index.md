@@ -76,17 +76,6 @@ sections:
       subtitle:
         textAlign: center
   - type: DividerSection
-    title: Kawoosh
-    elementId: ''
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
-  - type: DividerSection
     title: Divider
     elementId: ''
     colors: bg-light-fg-dark
@@ -97,6 +86,17 @@ sections:
           - pl-12
           - pb-12
           - pr-12
+  - type: DividerSection
+    title: Kawoosh
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
