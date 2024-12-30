@@ -102,7 +102,7 @@ sections:
           - pr-20
 seo:
   metaTitle: Home - Through the wormhole
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
