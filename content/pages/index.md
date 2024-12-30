@@ -2,6 +2,17 @@
 title: Kawoosh.ca
 slug: /
 sections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -75,17 +86,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - type: DividerSection
     title: Kawoosh
     elementId: ''
