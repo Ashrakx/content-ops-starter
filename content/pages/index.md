@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: ''
+      text: Locked.
       color: text-light
       styles:
         self:
