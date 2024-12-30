@@ -61,7 +61,7 @@ sections:
         colors: bg-dark-fg-light
         styles:
           self:
-            borderRadius: x-small
+            borderRadius: xx-small
       - type: FeaturedItem
         title: ''
         subtitle: ''
